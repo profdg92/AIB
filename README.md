@@ -1,2 +1,2 @@
-# AIB_1.0
-Progetto finale del primo corso di Algoritmi e Informatica di Base
+# Algoritmi e Informatica di Base
+Progetto finale del primo corso di Algoritmi presso il Liceo "I. Kant" di Melito
